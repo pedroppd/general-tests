@@ -1,4 +1,4 @@
-package com.unittest.mock.domain;
+package generaltests.domain;
 
 import java.util.regex.Pattern;
 

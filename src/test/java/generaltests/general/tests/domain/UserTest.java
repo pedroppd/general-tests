@@ -1,5 +1,6 @@
-package com.unittest.mock.domain;
+package generaltests.general.tests.domain;
 
+import generaltests.domain.User;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

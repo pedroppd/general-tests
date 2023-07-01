@@ -1,6 +1,4 @@
-package com.unittest.mock.domain;
-
-import org.springframework.cglib.core.Local;
+package generaltests.domain;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package com.unittest.mock.domain;
+package generaltests.domain;
 
 import static java.util.Objects.isNull;
 import static org.apache.logging.log4j.util.Strings.isEmpty;

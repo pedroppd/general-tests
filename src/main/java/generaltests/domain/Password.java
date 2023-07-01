@@ -1,4 +1,4 @@
-package com.unittest.mock.domain;
+package generaltests.domain;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 

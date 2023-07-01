@@ -1,4 +1,4 @@
-package com.unittest.mock;
+package generaltests.general.tests;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
