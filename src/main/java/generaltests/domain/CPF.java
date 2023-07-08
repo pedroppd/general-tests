@@ -4,7 +4,7 @@ import static java.util.Objects.isNull;
 import static org.apache.logging.log4j.util.Strings.isEmpty;
 
 public class CPF {
-    private String cpf;
+    private final String cpf;
 
     public static CPF create(String cpf) {
         validateCPF(cpf);

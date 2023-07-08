@@ -1,4 +1,4 @@
-package generaltests.general.tests.domain;
+package generaltests.domain;
 
 import generaltests.domain.User;
 import org.junit.jupiter.api.Assertions;

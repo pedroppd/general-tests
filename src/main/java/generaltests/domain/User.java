@@ -1,5 +1,7 @@
 package generaltests.domain;
 
+import generaltests.application.UserDTO;
+
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.UUID;
@@ -36,5 +38,9 @@ public class User {
 
     public LocalDateTime getDtCreation() {
         return this.dtCreation;
+    }
+
+    public UserDTO toDTO() {
+        return new UserDTO(this.uuid, this.firstName, this.lastName, this.birthDate, this.email, this.dtCreation);
     }
 }
